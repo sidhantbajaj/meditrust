@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058532207901",
+    "firebase_url": "https://lab-system-43d4b.firebaseio.com",
+    "project_id": "lab-system-43d4b",
+    "storage_bucket": "lab-system-43d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058532207901:android:304d1fda8af1940dc485f4",
+        "android_client_info": {
+          "package_name": "com.sidhantbajaj.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058532207901-sng8c4dhklgusp368dgquf3eopv3d95j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6e_yyE2Ep-P4tvbmMuIDB7Y-h4wl-ZI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058532207901-sng8c4dhklgusp368dgquf3eopv3d95j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
